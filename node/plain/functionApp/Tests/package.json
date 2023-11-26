@@ -6,7 +6,7 @@
     "name": "nijoy"
   },
   "dependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "mocha": "^5.2.0",
     "mocha-junit-reporter": "^1.18.0"
   },
