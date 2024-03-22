@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "applicationinsights": "^1.0.0",
-    "nodemon": "~1.17.3",
+    "nodemon": "~2.0.0",
     "mongodb": "^3.1.10",
     "jsdom": "^13.0.0"
   },
