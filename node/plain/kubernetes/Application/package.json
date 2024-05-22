@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "applicationinsights": "^1.0.0",
-    "nodemon": "~1.17.3"
+    "nodemon": "~2.0.0"
   }
 }
